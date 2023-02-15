@@ -2,8 +2,8 @@
 I love challenging myself and learning new things! This account is where I keep most of my code!
 
 
-CURRENT PROJECTS: (10/5/2022)
-Magi-Money, Sweet-Notes, Miniworlds, Halloween Island 2
+CURRENT PROJECTS: (2/15/2023)
+Miniworlds
 
 - 📫 You can contact me here: jamsnackbusiness@gmail.com
 
