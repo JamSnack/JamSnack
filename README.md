@@ -3,10 +3,10 @@ I love challenging myself and learning new things! This account is where I keep 
 
 
 CURRENT PROJECTS: (1/17/2024)
-- Super Starbase -
-- Unnamed Metroidvania - 
+- Super Starbase
+- Unnamed Metroidvania
 
-- 📫 You can contact me here: jamsnackbusiness@gmail.com
+  📫 You can contact me here: jamsnackbusiness@gmail.com
 
 <!---
 JamSnack/JamSnack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
